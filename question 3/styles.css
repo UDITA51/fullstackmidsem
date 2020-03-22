@@ -1,0 +1,46 @@
+body {
+	background-color: yellow;
+	padding: 20px;
+	margin: 0 auto;
+    display: block;
+}
+
+.block {
+	margin: 0 auto;
+    display: block;
+    margin-left: 43%;
+}
+.sizet {
+	padding: 10px;
+	border-radius: 40%;
+	text-align: center;
+	width: 200px;
+	background-color: lightblue;
+	font-size: 30px;
+	color: red;
+}
+.one {
+
+	margin-top: 10px;
+	padding: 30px;
+	border-radius: 50%;
+	text-align: center;
+	width: 200px;
+	background-color: yellow;
+	font-size: 50px;
+	color: red;
+}
+
+.value{
+	font-size: 20px;
+	margin-top: 10px;
+}
+.view{
+	color: red;
+	font-size: 20px;
+}
+
+.info {
+	color: red;
+	font-size: 20px;
+}

@@ -1,0 +1,33 @@
+.block {
+	margin: 20px auto;
+    display: block;
+    margin-left: 20%;
+}
+
+body {
+	background-color: yellow;
+	padding: 20px;
+	margin: 0 auto;
+    display: block;
+}
+
+.result{
+	color: red;
+	font-size: 20px;
+}
+
+.details {
+	color: red;
+	font-size: 20px;
+}
+
+.parser {
+
+	margin-top: 20px;
+	padding: 20px;
+	text-align: center;
+	width: 150px;
+	background-color: yellow;
+	font-size: 50px;
+	color: red;
+}

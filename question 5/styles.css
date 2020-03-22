@@ -1,0 +1,88 @@
+body {
+	background-color: red;
+}
+.block {
+}
+.ask {
+	background-color: yellow;
+	border-radius: 50%;
+	margin: auto;
+	text-align: center;
+	font-size: 150px;
+	color: blue;
+	width: 500px;
+	height: 500px;
+}
+.heading {
+	background-color: yellow;
+	color: blue;
+	border-radius: 50%;
+	text-align: center;
+	text-shadow: 10px;
+	padding: 20px;
+	font-size: 100px;
+}
+
+.input_block {
+	padding: 20px;
+	margin: 0 auto;
+    display: block;
+	font-size: 50px;
+}
+
+.go_button {
+	margin: 0 auto;
+    display: block;
+	padding: 20px;
+	font-size: 25px;
+}
+
+.components {
+	border-radius: 20%;
+	text-align: center;
+	font-size: 50px;
+	background-color: yellow;
+	padding: 20px;
+    margin: 0 auto;
+    display: block;
+	color: blue;
+	height: 50px;
+}
+
+.random {
+	background-color: yellow;
+	color: blue;
+	border-radius: 50%;
+	text-align: center;
+	text-shadow: 10px;
+	padding: 20px;
+}
+
+.chances {
+	background-color: yellow;
+	color: blue;
+	border-radius: 50%;
+	text-align: center;
+	text-shadow: 10px;
+	padding: 20px;
+	font-size: 50px;
+}
+
+.helper1 {
+	background-color: yellow;
+	color: blue;
+	border-radius: 50%;
+	text-align: center;
+	text-shadow: 10px;
+	padding: 20px;
+	font-size: 50px;
+}
+.helper2 {
+	background-color: yellow;
+	color: blue;
+	border-radius: 50%;
+	text-align: center;
+	text-shadow: 10px;
+	padding: 20px;
+	font-size: 50px;
+}
